@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities">
+        <item>RecyclerViewActivity</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>RecyclerView</item>
+    </string-array>
+</resources>
